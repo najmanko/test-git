@@ -1,2 +1,2 @@
 # test-git
-tadaaa
+Proper test name
