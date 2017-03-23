@@ -1,2 +1,2 @@
 # test-git
-Proper test name
+Proper test name 2
